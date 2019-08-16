@@ -4,9 +4,9 @@ The code is C++ traslation from python, insired by exelent Pluralsight course, n
 
 ## Short description of console output
 1. Visual undirected graph representation:
-[[https://github.com/selectany/RLShortestPath/edit/master/graph.png|alt=octocat]]
+[[https://github.com/selectany/RLShortestPath/blob/master/graph.png|alt=octocat]]
 
 2. Console output:
-[[https://github.com/selectany/RLShortestPath/edit/master/results.png|alt=octocat]]
+[[https://github.com/selectany/RLShortestPath/blob/master/results.png|alt=octocat]]
 
 Enjoy!

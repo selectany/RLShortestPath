@@ -4,7 +4,7 @@ The code is C++ traslation from python, insired by exelent Pluralsight course, n
 
 ## Short description of console output
 1. Visual undirected graph representation:
-[graph](https://github.com/selectany/RLShortestPath/blob/master/graph.png)
+[graph](https://raw.githubusercontent.com/selectany/RLShortestPath/master/graph.png?sanitize=true&raw=true)
 
 2. Console output:
 [results](results.png)
